@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>flags/Austria.png</file>
+        <file>flags/Bulgaria.png</file>
+        <file>flags/Croatia.png</file>
+        <file>flags/Czech.png</file>
+        <file>flags/Denmark.png</file>
+        <file>flags/Estonia.png</file>
+        <file>flags/Finland.png</file>
+        <file>flags/France.png</file>
+        <file>flags/Germany.png</file>
+        <file>flags/Greece.png</file>
+        <file>flags/Lithuania.png</file>
+        <file>flags/Malta.png</file>
+        <file>flags/Netherlands.png</file>
+        <file>flags/Norway.png</file>
+        <file>flags/Poland.png</file>
+        <file>flags/Portugal.png</file>
+        <file>flags/Slovenia.png</file>
+        <file>flags/Sweden.png</file>
+    </qresource>
+</RCC>
